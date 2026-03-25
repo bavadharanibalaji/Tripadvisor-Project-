@@ -889,9 +889,6 @@ img {
         width: 30%;
     }
 
-    .ride{
-        display: none;
-    }
     .sale,
     .trust{
         flex-direction: column;
@@ -906,13 +903,17 @@ img {
         margin: 20px;
         border-radius: 8px;
     }
-
+    .ride{
+        display: none;
+    }
     .sale-content h1,
     .trust-content h1
     {
         font-size: 26px;
     }
-
+    .ride{
+        display: none;
+    }
 
     .card,
     .card1,
